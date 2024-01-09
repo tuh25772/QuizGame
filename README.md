@@ -1,3 +1,5 @@
+
+# Quiz Game
 The Java code provided constitutes a quiz game application that leverages Swing GUI components to create an interactive user interface. It utilizes various Java features 
 including Swing's JFrame, JTextField, JTextArea, JButton, JLabel, and Timer to present questions, answer choices, and results visually. Employing arrays for storing questions, 
 options, and correct answers, the game dynamically updates the interface with each new question. It implements ActionListener to handle user interactions, enabling users to select 
